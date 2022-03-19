@@ -19,7 +19,7 @@ Teve como objetivo Entenda mais como funciona esta popular linguagem do mercado
 * Filtrando uma tabela
 * AjaxBuscando pacientes com AJAX
 #
-<img src= "nutrição.jpg">
+![127 0 0 1_5500_index html (3)](https://user-images.githubusercontent.com/96561261/159125331-93eb66fd-3ce7-4bc8-8fdf-ca00bdb8a4c8.png)
 
 #
 
