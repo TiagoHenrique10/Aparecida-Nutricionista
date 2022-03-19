@@ -19,7 +19,7 @@ Teve como objetivo Entenda mais como funciona esta popular linguagem do mercado
 * Filtrando uma tabela
 * AjaxBuscando pacientes com AJAX
 #
-<img src= "nutrição.jpg" align = "center">
+<img src= "nutrição.jpg">
 
 #
 
